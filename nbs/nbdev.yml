@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "anomaly_detection"
+  site-url: "https://HasanGoni.github.io/anomaly_detection"
+  description: "Anomlay detection first work"
+  repo-branch: main
+  repo-url: "https://github.com/HasanGoni/anomaly_detection"
